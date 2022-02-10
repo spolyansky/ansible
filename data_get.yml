@@ -1,6 +1,6 @@
 - name: Getting data from routers
 
-  hosts: 'Mikrotik IT-GARANT'
+  hosts: Mikrotik_IT-GARANT
 
   gather_facts: false
 
