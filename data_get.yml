@@ -1,6 +1,6 @@
 - name: Getting data from routers
 
-  hosts: routers
+  hosts: IT-GARANT
 
   gather_facts: false
 
